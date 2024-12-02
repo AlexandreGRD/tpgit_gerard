@@ -1,2 +1,2 @@
 # tpgit_gerard
-laurem ispum
+laurem ipsum

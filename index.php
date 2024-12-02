@@ -12,7 +12,9 @@
 		<header>
 			<!-- Menu de navigation du site dans l'en tête -->
 			<h1>Gestion de projet avec GIT et GITLAB</h1>
-			
+			<?php
+				require_once('nav.php');
+			?>
 		</header>
 		
 		<section>
@@ -21,12 +23,15 @@
 			
 			<div id="gauche">
 				</br>
+				Git est un logiciel de gestion de version decentralise
 				</br>
 				<img />
 				</br>
-				</br>
+				C'est un logiciel libre cree par Linus Torvalds, auteur du noyau Linux
 				</br>
 				<img />
+				</br>
+				Laurem Ipsum
 			</div>
 			
 			
@@ -39,7 +44,9 @@
 			</div>
 		</section>
 		<footer>
-		
+			<?php
+				require_once('footer.php');
+			?>
 		<footer>
 	</body>
 </html>			

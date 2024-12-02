@@ -25,9 +25,11 @@
 				</br>
 				Git est un logiciel de gestion de version decentralise
 				</br>
+				<img />
 				</br>
 				C'est un logiciel libre cree par Linus Torvalds, auteur du noyau Linux
 				</br>
+				<img />
 				</br>
 				Laurem Ipsum
 			</div>
